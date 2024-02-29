@@ -1,0 +1,71 @@
+{ 
+"name": "Kids", 
+"image": "https://www.dropbox.com/scl/fi/212nz9z3bi67xvxjnl90u/.png?rlkey=s828nfzs8yao5b0o3zz1g97er&dl=1", 
+"url": "https://pastebin.com/raw/g7bHSXvu", 
+	"stations" : 
+			[
+
+
+{"name"              :     "Dreamworks💙",
+"image"             :     "https://drive.google.com/uc?id=1NYCtTVn9oQzz1GEBbplvnGqRQtN5_-Ml",
+"url"               :     "http://kungtv.net/play/live.php?mac=10:27:BE:15:b9:6e&stream=115439&extension=ts&play_token",
+"referer"           :  "",
+"playInNatPlayer"   :     "true"},
+
+{
+"name": "True Spark Play🤎",
+"image": "https://drive.google.com/uc?id=1NfZlhSTTtNnK-iOQsHNbad_l8FLEAqoG",
+"url": "http://kungtv.net:2095/play/live.php?mac=10:27:BE:15:b9:6e&stream=115784&extension=ts&play_token",
+"referer": "",
+"info": "kung",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Cartoon Network♥️",
+"image": "https://drive.google.com/uc?id=1Nfr_3QGa2Wd9wRiNhz0EUYPUvXIIXCVY",
+"url": "https://streaming.livescorethai.net/iptv/sd-cartoonnetwork.stream/chunks.m3u8",
+"referer": "https://streaming.livescorethai.net/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
+"info": "score",
+"playInNatPlayer": "true"
+},
+{
+"name": "Boomerang♥️",
+"image": "https://drive.google.com/uc?id=1NkP1qEbDxJIYteqg_lWxj7hGtFGgo7MI",
+"url": "https://edge6a.v2h-cdn.com/boomerang/boomerang.stream/playlist.m3u8",
+"referer": "https://mvtv.co.th/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+"playInNatPlayer": "true"
+},
+{
+"name": "FW Toon💛",
+"image": "https://drive.google.com/uc?id=1NS8ZuOFFTrldoFZhgFlVGvsYD8u8MALn",
+"url": "https://www.inwiptv.com/player_demo.php?channel=89780",
+"referer": "https://www.inwiptv.com/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Cartoon Club🧡",
+"image": "https://drive.google.com/uc?id=1NsfZLcX2lMsAyIfsIY-mKjYORGySs_fZ",
+"url": "https://edge2-bkk.3bb.co.th:9443/Web_CartoonClub_Live/cartoonclub_480P.stream/playlist.m3u8",
+"referer": "",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Cartoonito💚",
+"image": "https://drive.google.com/uc?id=1D1alrMawHalc04Weom_8x1F5UnsRCNCU",
+"url": "https://streaming.livescorethai.net/iptv/uk-cartoonito.stream/chunks.m3u8",
+"referer": "https://streaming.livescorethai.net/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+"playInNatPlayer": "true"
+},
+
+
+]
+},
+ 
+
